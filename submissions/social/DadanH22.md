@@ -1,4 +1,4 @@
-# vApp Submission: [Your Project Name]
+# vApp Submission: DH Project
 
 ## Verification
 ```yaml
@@ -16,7 +16,7 @@ timestamp: "2025-01-15"
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
+- **Project**: DH Project
 - **Category**: identity/defi/social/gaming/infrastructure/other
 
 ### Description
